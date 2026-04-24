@@ -4,7 +4,7 @@
 
 A full-stack web application for managing student team members. Built with **React.js** (frontend) and **Node.js + Express + MongoDB** (backend). The app allows users to add new team members with profile photos, view all members in a card layout, and access detailed individual profiles.
 
-## 🛠 Technologies Used
+## Technologies Used
 
 | Layer     | Technology               |
 | --------- | ------------------------ |
