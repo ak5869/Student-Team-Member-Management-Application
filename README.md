@@ -1,6 +1,6 @@
 # Team FourX – Student Team Members Management Application
 
-## 📋 Project Description
+## Project Description
 
 A full-stack web application for managing student team members. Built with **React.js** (frontend) and **Node.js + Express + MongoDB** (backend). The app allows users to add new team members with profile photos, view all members in a card layout, and access detailed individual profiles.
 
@@ -15,7 +15,7 @@ A full-stack web application for managing student team members. Built with **Rea
 | HTTP      | Axios                    |
 | Uploads   | Multer                   |
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── client/                  # React Frontend
@@ -49,7 +49,7 @@ A full-stack web application for managing student team members. Built with **Rea
 └── README.md
 ```
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 
@@ -94,7 +94,7 @@ npm run dev
 
 The frontend will be available at `http://localhost:5173`.
 
-## 🔗 API Endpoints
+## API Endpoints
 
 | Method | Endpoint             | Description                    |
 | ------ | -------------------- | ------------------------------ |
@@ -107,20 +107,20 @@ The frontend will be available at `http://localhost:5173`.
 - **GET all members:** Open `http://localhost:5000/api/members`
 - **GET single member:** Open `http://localhost:5000/api/members/<member_id>`
 
-## 📸 Features
+## Features
 
 1. **Home Page** – Welcome page with team name, navigation links, and member count
 2. **Add Member** – Form with name, role, email, and image upload with validation
 3. **View Members** – Card layout displaying all team members with photos
 4. **Member Details** – Detailed profile page for each member
 
-## 🏃 How to Run the App
+## How to Run the App
 
 1. Start MongoDB: `mongod`
 2. Start backend: `cd server && npm run dev`
 3. Start frontend: `cd client && npm run dev`
 4. Open browser: `http://localhost:5173`
 
-## 👥 Team
+## Team
 
 **Team FourX**
